@@ -15,6 +15,7 @@ Start by updating the package list using the following command:
 
 
 Use the following command to install pip for Python 3:
+
 `sudo apt install python3-pip`
  
 Now let's import all necessary packages
