@@ -4,7 +4,7 @@ Extractive methods attempt to summarize articles by selecting a subset of words 
 ![picture alt](https://github.com/shubham769/Extractive-Text-Summarization-tool/blob/master/text.png)
 
 
-### Running Script for MagAD Intelligence 
+### Running Script
 
 Assuming you have pip installed, if not follow the steps: 
 
