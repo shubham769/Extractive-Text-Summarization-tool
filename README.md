@@ -1,4 +1,6 @@
 # Extractive-Summarization-tool
+This tool will take an Long para as an input and will give you an summarary of following content.
+
 Extractive methods attempt to summarize articles by selecting a subset of words that retain the most important points.  This approach weights the important part of sentences and uses the same to form the summary. Different algorithm and techniques are used to define weights for the sentences and further rank them based on importance and similarity among each other.
 
 ![picture alt](https://github.com/shubham769/Extractive-Text-Summarization-tool/blob/master/text.png)
@@ -31,3 +33,21 @@ Lets install numpy package
 Install the current release of networkx with pip
 
 `pip3 install networkx`
+
+Look at this Notebook :https://github.com/shubham769/Extractive-Text-Summarization-tool/blob/master/summary.py
+
+At Line no: 86 in the End of notebook
+
+`generate_summary( "mydata.txt", 2)`
+
+Replace file name with your File location and Number of line summary you want.
+
+Then run the final command :
+
+`python summary.py`
+
+Output will be on your console.
+
+Happy coding :-)
+
+For more info go through this blog: https://blog.knoldus.com/machine-x-text-summarization-in-python/
